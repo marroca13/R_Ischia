@@ -1,4 +1,2 @@
 # R_Ischia
-Ischia Summer School
-
-jajaja
+Ischia Summer School# Trial_SummerSchool
